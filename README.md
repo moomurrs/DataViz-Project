@@ -1,8 +1,11 @@
 # DataViz-Project
 Visualizing America's Energy Transformation through graphs and interactive visualizations.
 
-## Setup
+## Sync dependencies for Jupyter
 `uv sync`
+
+## Turn on virtual environment
+`./.venv/Script/Activate`
 
 Then see the [DataViz_Project.ipynb](DataViz_Project.ipynb) report!
 
