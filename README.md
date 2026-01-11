@@ -1,13 +1,16 @@
 # DataViz-Project
 Visualizing America's Energy Transformation through graphs and interactive visualizations.
 
-## Sync dependencies for Jupyter
-`uv sync`
+## Local Setup
+1. `uv sync`
+2. `./.venv/Script/Activate`
+3. Open Jupyter on [DataViz_Project.ipynb](DataViz_Project.ipynb)
 
-## Turn on virtual environment
-`./.venv/Script/Activate`
+## Online Preview
+Github might prevent viewing the [DataViz_Project.ipynb](DataViz_Project.ipynb) Notebook due to size.
 
-Then see the [DataViz_Project.ipynb](DataViz_Project.ipynb) report!
+If so, try the link below:
+https://colab.research.google.com/drive/1PTN24dXaQCAt_jcTkU1qbM4oYDPWYGsT?usp=sharing
 
 ## Credits
 **Team Members:**
